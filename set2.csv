@@ -1,0 +1,86 @@
+Timestamp,Item,Category,Amount,Quantity,Unit,Payee,Brand,Date,Payment method
+15/10/2017 08:28:40,Transportation,Transportation,4.7,,,SRTGN,,15/10/2017,Cash
+15/10/2017 11:24:51,Aluminium foil,Household,4.56,20,m,Carrefour,Alufoil,15/10/2017,Cash
+15/10/2017 11:25:33,Baby wipes,Household,3.4,80,unit,Carrefour,Carrefour,15/10/2017,Cash
+15/10/2017 11:26:13,Buttermilk,Food,0.92,450,g,Carrefour,Délice,15/10/2017,Cash
+15/10/2017 11:26:53,Raieb,Food,0.92,450,g,Carrefour,Délice,15/10/2017,Cash
+15/10/2017 11:27:24,Puff pastry,Food,4.3,500,g,Carrefour,,15/10/2017,Cash
+15/10/2017 11:28:32,Gryuere,Food,3.775,88,g,Carrefour,Souani,15/10/2017,Cash
+15/10/2017 11:29:17,Garlic,Food,1.07,108,g,Carrefour,,15/10/2017,Cash
+15/10/2017 11:29:58,Carrots,Food,0.75,419,g,Carrefour,,15/10/2017,Cash
+15/10/2017 11:30:43,Courgette,Food,1.265,395,g,Carrefour,,15/10/2017,Cash
+15/10/2017 11:31:40,Green onion,Food,1.905,1198,g,Carrefour,,15/10/2017,Cash
+15/10/2017 11:32:19,Parsley,Food,0.62,207,g,Carrefour,,15/10/2017,Cash
+15/10/2017 11:32:57,Pumpkin,Food,1.11,568,g,Carrefour,,15/10/2017,Cash
+15/10/2017 16:13:50,Taxi,Transportation,1.8,,,Taxi,,15/10/2017,Cash
+16/10/2017 14:29:35,Crackers,Food,0.7,1,unit,Grocery,Tuc,16/10/2017,Cash
+17/10/2017 16:13:36,Milk,Food,1.12,1,L,Grocery,Natilait,17/10/2017,Cash
+19/10/2017 04:07:27,Eggs,Food,0.63,4,Unit,Grocery,,18/10/2017,Cash
+22/10/2017 09:53:33,Taxi,Transportation,1.8,,,Taxi,,22/10/2017,Cash
+22/10/2017 09:54:03,Public transportation,Transportation,4.7,,,Public transportation,,22/10/2017,Cash
+17/11/2017 20:47:57,Taxi,Transportation,5.2,,,Taxi,,16/11/2017,Cash
+17/11/2017 20:48:20,Taxi,Transportation,5.3,,,Taxi,,16/11/2017,Cash
+17/11/2017 20:49:04,Sandwich kafteji,Food,1.7,1,unit,Restaurant,,16/11/2017,Cash
+17/11/2017 20:50:10,Public transportation,Transportation,4.15,,,Public transportation,,17/11/2017,Cash
+,Bread,Food,TND0.20,1,unit,Bakery,,04/11/2017,Cash
+,Gift,Gifts,TND40.00,,,,,04/11/2017,Cash
+,Eggs,Food,TND0.60,4,unit,Grocery,,04/11/2017,Cash
+,Croiassant,Food,TND0.60,1,unit,Bakery,,05/11/2017,Cash
+,Malfouf,Food,TND2.80,1,unit,King,,04/11/2017,Cash
+,Fricassé,Food,TND0.50,1,unit,King,,04/11/2017,Cash
+,Cash,Cash,TND100.00,,,,,04/11/2017,Savings account
+,Adjustement,Cash,TND220.00,,,,,04/11/2017,Savings account
+,Adjustement,Cash,TND78.40,,,,,04/11/2017,Cash
+,Cleaver,Household,TND2.89,1,,Magasin Général,,05/11/2017,Cash
+,Chicken,Food,TND4.13,426,g,Magasin Général,,05/11/2017,Cash
+,Flour,Food,TND0.70,1000,g,Magasin Général,,05/11/2017,Cash
+,Tomato sauce,Food,TND1.19,400,g,Magasin Général,Safir,05/11/2017,Cash
+,Tomato sauce,Food,TND1.19,400,g,Magasin Général,Safir,05/11/2017,Cash
+,Pasta sauce,Food,TND1.31,,,Magasin Général,Zgolli,05/11/2017,Cash
+,Carrots,Food,TND0.76,360,g,Magasin Général,,05/11/2017,Cash
+,Parsley,Food,TND0.30,1,unit,Magasin Général,,05/11/2017,Cash
+,Ginger,Food,TND1.00,62,g,Magasin Général,,05/11/2017,Cash
+,Chocolate,Food,TND2.01,1,unit,Magasin Général,Mars,05/11/2017,Cash
+,Aubergine,Food,TND0.91,550,g,Magasin Général,,05/11/2017,Cash
+,Onion,Food,TND0.96,618,g,Magasin Général,,05/11/2017,Cash
+,Garlic,Food,TND1.27,172,g,Magasin Général,,05/11/2017,Cash
+,Lettuce,Food,TND0.68,1,unit,Magasin Général,,05/11/2017,Cash
+,Spice pepper,Food,TND0.67,58,g,Magasin Général,,05/11/2017,Cash
+,Spice black pepper,Food,TND1.68,48,g,Magasin Général,,05/11/2017,Cash
+,Pumpkin,Food,TND1.01,548,g,Magasin Général,,05/11/2017,Cash
+,Cigarette,Other,TND0.60,2,unit,Grocery,,06/11/2017,Cash
+,Pain au chocolat,Food,TND1.20,2,unit,Bakery,,06/11/2017,Cash
+,Délio,Food,TND0.70,0.4,L,Grocery,Délice,06/11/2017,Cash
+,Mlewi,Food,TND1.50,1,unit,,,06/11/2017,Cash
+,Tuna,Food,TND6.00,1,g,Grocery,Dwaref,06/11/2017,Cash
+,Artichoke,Food,TND1.85,1,unit,Magasin Général,,05/11/2017,Cash
+,Bread,Food,TND0.20,1,unit,Bakery,,05/11/2017,Cash
+,Oil,Food,TND3.93,1,L,Magasin Général,Lesieur,15/11/2017,Cash
+,Cleaver,Gifts,TND2.89,1,unit,Magasin Général,,15/11/2017,Cash
+,Cheese,Food,TND2.60,124,g,Magasin Général,,15/11/2017,Cash
+,Fennel,Food,TND1.90,1693,g,Magasin Général,,15/11/2017,Cash
+,Green lentils,Food,TND2.99,352,g,Magasin Général,,15/11/2017,Cash
+,Carrots,Food,TND0.82,479,g,Magasin Général,,15/11/2017,Cash
+,Sugar,Food,TND0.76,780,g,Magasin Général,,15/11/2017,Cash
+,Mint,Food,TND0.55,1,unit,Magasin Général,,15/11/2017,Cash
+,Lettuce,Food,TND0.59,1,unit,Magasin Général,,15/11/2017,Cash
+,Green pepper,Food,TND0.63,354,g,Magasin Général,,15/11/2017,Cash
+,Potatoes,Food,TND1.12,946,g,Magasin Général,,15/11/2017,Cash
+,Butter,Food,TND2.20,200,g,Magasin Général,Vitalait,15/11/2017,Cash
+,Taxi,Transportation,TND1.50,,,,,15/11/2017,Cash
+,Concert ticket,Entertainment,TND15.00,,,,,13/11/2017,Cash
+,Adjustement,Cash,TND31.06,,,,,15/11/2017,Cash
+,Public transportation,Transportation,TND4.70,,,,,19/11/2017,Cash
+,Taxi,Transportation,TND2.00,,,,,19/11/2017,Cash
+,Yogurt,Food,TND0.74,2,unit,Carrefour,Délice,19/11/2017,Cash
+,Buttermilk,Food,TND1.84,2,unit,Carrefour,Délice,19/11/2017,Cash
+,Sliced bread,Food,TND1.07,14,unit,Carrefour,,19/11/2017,Cash
+,Cherry tomatos,Food,TND1.38,250,g,Carrefour,,19/11/2017,Cash
+,Onion,Food,TND1.29,701,g,Carrefour,,19/11/2017,Cash
+,Pumpkin,Food,TND0.81,407,g,Carrefour,,19/11/2017,Cash
+,Tomatos,Food,TND0.87,435,g,Carrefour,,19/11/2017,Cash
+,Covered pan,Household,TND16.99,1,unit,Carrefour,One,19/11/2017,Cash
+,Cash,Cash,TND30.00,,,,,19/11/2017,Savings account
+,Malfouf,Food,TND8.78,2,unit,,,17/11/2017,Cash
+,Sandwich kafteji,Food,TND6.80,1,unit,Baguette&Baguette,Baguette&Baguette,19/11/2017,Cash
+,Water,Food,TND3.80,6,unit,Grocery,Maîn,19/11/2017,Cash
